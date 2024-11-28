@@ -1,0 +1,9 @@
+#app{
+    text-align: center;
+    background-color: aqua;
+    font-size: 40px;
+    border: dashed 1px black;
+    border-radius: 15px;
+    width: 1920px;
+    height: 1080px;
+}
